@@ -45,6 +45,8 @@ GluonDev is an open laboratory. We value:
 
 *"Subatomic precision. Systemic impact."*
 
+---
+
 ## ⚛️ What is "gluon" ?
 
 A **gluon** is an elementary particle that acts as the "exchange particle" for the strong nuclear force, which is one of the four fundamental forces of nature. Its primary role is to "glue" quarks together to form protons and neutrons, ensuring the stability of the atomic nucleus. Unlike many other particles, gluons are massless and carry a unique property called **color charge**, allowing them to interact with both quarks and other gluons.
